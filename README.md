@@ -1,6 +1,36 @@
-# PBSC
+<a href="http://fvcproductions.com"><img src="https://www.pbsc.com/wp-content/themes/pbsc/assets/img/logo-PBSC-fr-print.svg" title="FVCproductions" alt="FVCproductions"></a>
 
-### 1. Philosophy
+# PBSC (Forget password app)
+
+If a user forgets the password for their PBSC app, or if you think their account has been compromised, you can reset their password from this App.
+### Clone
+
+- Clone this repo to your local machine using `https://github.com/GoTechs/PBSC.git`
+
+### Setup
+
+> To get started...
+
+### Step 1
+
+- 👯 Clone this repo to your local machine using `https://github.com/GoTechs/PBSC.git`
+
+### Step 2
+
+- **Run** 
+```
+ npm install
+ ```
+- **After** 
+```
+ npm start
+ ```
+---
+
+### Step 3
+
+- **HACK AWAY!** 🔨🔨🔨
+
 
 
 ### 1. Available script 

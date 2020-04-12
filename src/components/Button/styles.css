@@ -1,0 +1,25 @@
+.button {
+    border-radius: 8px;
+    -webkit-font-smoothing: antialiased;
+    font-size: 20px;
+    height: 50px;
+    position: relative;
+    line-height: 30px;
+    border: 0px;
+    font-family: "Roboto";
+    text-transform: uppercase;
+    cursor: pointer;
+    width: 400px;
+    display: inline-block;
+    padding: 10px 30px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+button:disabled {
+    cursor: not-allowed;
+    background-color: #e8bcc9;
+}
+.primary {
+    background-color: #FF80A5;
+    color: #FCDBF0;
+}
