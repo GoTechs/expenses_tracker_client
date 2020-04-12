@@ -13,7 +13,7 @@ If a user forgets the password for their PBSC app, or if you think their account
 
 ### Step 1
 
-- 👯 Clone this repo to your local machine using `https://github.com/GoTechs/PBSC.git`
+- 👯 Clone this repo to your local machine using : ```git clone https://github.com/GoTechs/PBSC.git```
 
 ### Step 2
 
