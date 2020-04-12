@@ -17,11 +17,11 @@ If a user forgets the password for their PBSC app, or if you think their account
 
 ### Step 2
 
-- **Run** 
+- **Install all the packages** 
 ```
  npm install
  ```
-- **After** 
+- **RUN** 
 ```
  npm start
  ```

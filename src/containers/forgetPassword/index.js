@@ -22,7 +22,7 @@ class ForgetPassword extends Component {
       },
       valid: false,
       touched: false,
-      errorText: "You have entered invalid email address",
+      errorText: "You have entered an invalid email address",
       value: "",
     },
     loading: false,
