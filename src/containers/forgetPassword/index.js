@@ -69,8 +69,12 @@ class ForgetPassword extends Component {
       }
     } catch (error) {
       if (error.response) {
+        //The request was made and the server responded with a status code
+        //I realize that the backend don't handle the 404 status to redirect the user "page not found".
+        //In case we want handle all the status error we can simply add a switch case for error.response.status.
         toast.error(error.response.data.error.message);
       } else {
+        //Something happened in setting up the request that triggered an Error
         toast.error(error.message);
       }
       this.setState({ loading: false });
