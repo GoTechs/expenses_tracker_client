@@ -19,7 +19,7 @@ const button = (props) => {
   return (
     <button
       className={`button ${props.primary && "primary"}`}
-      type="button"
+      type={props.type}
       disabled={props.disabled}
       onClick={props.onClick}
     >

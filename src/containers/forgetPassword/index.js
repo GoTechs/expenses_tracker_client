@@ -104,7 +104,6 @@ class ForgetPassword extends Component {
             primary
             type="submit"
             disabled={!this.state.formConfig.valid}
-            onClick={this.handleSubmit}
           >
             Reset password
           </Button>
